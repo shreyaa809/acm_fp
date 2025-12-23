@@ -1,0 +1,28 @@
+html{
+    background-image:url("img1.png");
+    font-family: "Poppins", sans-serif;
+    color: white;
+}
+h1{
+    color:white;
+    text-align: center;
+
+}
+.links a{
+    color:white;
+    text-decoration: none;
+    
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  background: white;
+  color: black;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  transform: rotate(45deg);   /* 🔥 tilt */
+  border-radius: 12px;
+}
